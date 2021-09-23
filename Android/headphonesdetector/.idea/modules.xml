@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="headphonesdetector/app" />
+      <module fileurl="file://$PROJECT_DIR$/headphonesdetector.iml" filepath="$PROJECT_DIR$/headphonesdetector.iml" group="headphonesdetector" />
+      <module fileurl="file://$PROJECT_DIR$/headphonesdetectorplugin/headphonesdetectorplugin.iml" filepath="$PROJECT_DIR$/headphonesdetectorplugin/headphonesdetectorplugin.iml" group="headphonesdetector/headphonesdetectorplugin" />
+    </modules>
+  </component>
+</project>
